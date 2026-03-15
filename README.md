@@ -1,196 +1,194 @@
 # OnirismSpeedrunRoute
 Notes on Onirism speedrun route
 
-start
-	tutorial arena OOB/BIB
-	collect cliff chest (1)
-	goto village arena, beat frorcs
-	jump off bridge to collect underwater chest (2)
-	goto temple, collect chest behind mole (3)
-	collect shotgun, pencil thrower
-	save, roll until green potion
-	temple OOB/BIB
-	temple arena skip
-goto brewery
-	pot dupe before bridge
-	go down to emily
-	collect chest across from save station (4)
-	beat emily (pot dupe if you can before defeat cutscene plays)
-	climb back up, pot dupe before triggering explosion cutscene
-	collect chest to right of tall ladder (5)
-goto volcano
-	main chamber
-	stone village
-	pot dupe on gatekeeper cutscene
-  wall jump up tower of left side by barrier, jump over barrier
-  save/reload if you need to refresh green pot
-  go to ground level
-  kill firefox with grenade as it spawns and pick up flamethrower
-  climb up tower, wall jump off of support and onto slanted ramp
-  slide up ramp (twice to get enough height before running out of stamina), or use green pot if you can afford to take longer in lava
-  climb top of ramp, jump onto platform (stand on invisible collider for extra height)
-  pop green pot if you haven't already, long jump to left tubing
-  high jump then wall jump off of invisible wall, you should be able to ledge hang top of invisible wall
-  run towards visible wall, jump down crack
-  run along roof until you get to wall, jump into lava and run under ramp to back in bounds
-  wall jump to door
-  do reactor core like normal, just harder w/o double jump (use wall jumps and high jumps as needed)
-goto rusty canyon
-	tunnels OOB/BIB
-	goto raggs, purchase jump pack
-	pot dupe before daisy fight
-	daisy OOB/BIB
-	save at vista
-	use speed pot then take dandelion to right, jump pack to cover the last distance
-	activate furthest fan, and activate both if no speed pot in dispenser
-	run to raggs vista, then save before river
-	run to river exit, climb up and OOB
-	BIB 
-	go to whats-it-town, trample emily with unicorn
-goto train
-	do the train normally, just fast.
-	try to trap emily on crane geometry
-goto desert
-	hope for good potion RNG
-	get in car
-	just drive straight along the right side of the map, don't get bapped
-goto al-hibdae 
-	after palace OOB, go down into library/school/idk and pick up DOS
-	complete library brawl, escape the palace, defeat kraken, goto ship
-goto marshmallot
-	activate canon, take canon to C&P
-	clip through invisible wall to left of door to C&P, take gondola east
-	continue towards forge, get raggs here so we can tp after forge
-goto celestial forge
-	dos clip through progression check barrier, take elevator
-	warp between distant platforms, clip through barriers,
-	goto gear door, destroy all enemies, warp through gears
-	defeat za warudo
-	goto cp2, take raggs teleport to marshmallot cloud temple
-goto marshmallot
-	take eastern gondola back to castle
-	clip through southern invisible barrier, enter trigger for forest
-goto forest
-	clip through door after first save point to enter blueberry area
-	clip through castle gate
-	climb to the top of the castle, beat green candy guy
-fishbone harbor
-	get raggs shop in fishbone
-	clip through doors to get to tram
-goto the slights
-	defeat all enemies in the casino fight, beat shark boss
-	take raggs shop back to fishbone
-	return to harbor to go to VoK
-goto valley of kings
-	enter pyramid, clip through scarab door (proximity DOS clip)
-	pot dupe as pyramid cutscene plays (first pair of large round pillars)
-	clip through statue door
-	if clip takes you in bounds:
-	if clip takes you out of bounds:
-		walk under tut arena, cutscene plays
-		back in bounds at the back of tut arena
-	dos clip through tut exit
-	safety save
-	go through hallway, at 3 way split dos clip through chain link (minor timesave)
-	save green pot for walkway with turrets and elite
-	save & reload for new pot
-	take all left turns in vents
-	go towards shuttle, activate ladder, wait for guns to stop firing before climbing
-	climb up, go across, press button, jump down to left walkway, 
-	pick up laptop gun, press second button, get on elevevator
-goto spacestation 
-	not enough time to press fuel button
-	do autoscroller
-	fly up, clip through window, press refuel button
-	go to ship
-goto moonbase
-	get spaceport shop
-	go southeast, clip through walls, go to red door, ignore red key
-	goto save point, go into space, clip through red/blue wall, go into blue base
-	get raggs shop
-	push button on computer (pot dupe)
-	return to shop
-	tp to spaceport shop
-	return to shuttle
-goto corpopolis
-	man idk how to describe landmarks in this level
-	be careful with clips, they're likely to take you OOB
-	arena clips should be done at a distance, but be aware the dark portal will try to loop back towards enemies
-	entrance to splash boulevard is second floor of mall at the other end
-	from locker rooms, stay to left, look for red door out of SB
-	more rooftops, more fights, more doors
-	follow sign for skate park, go over bridge?
-	idk keep doing stuff till you get to the final fight, clip into a wall to cheese it 
-goto corpotower
-	do tower basically like normal
-	beat AC, collect beam
-	return to raggs shop
-do all six dreamcatchers
-	chroma falls:
-		tp to village raggs shop
-		leave village, stay to right, go to nightmare
-		clip through nightmare boss door, beat nightmare
-		return to shop the way you came
-	treetops:
-		goto volcano
-			in main chamber, go upstairs and clip through charge beam door
-		goto meadows
-			go down hill, start cutscene, get on motorcycle ASAP
-			goto the exit tree
-			jump up onto the left stump, then climb onto extended tree branch
-			jump, fire DOS towards far end of rope, jump into DOS, and use jump to enter the exit trigger
-		goto treetops
-			safety save
-			cross first bridge, get behind mushroom platform after julie, jump on stem to get on top
-			activate speed pot, grab beam, jump towards lowest platform, activate jump pack
-			go left, then right across bridge, then up mushrooms, then across chasm with jet stream (requires speed and jump, DOS will target enemies)
-			enter nightmare (be aware swamp objective will also be active)
-			the route to the boss is the route you just took, but reversed and mirrored
-			don't bother moving between platforms during the boss fight
-			be careful when clipping back out of the arena, you're likely to get teleported over the void. 
-			the route back to the light portal is the same as the route from the start to the dark portal, but mirrored
-			go to the raggs shop in early treetops
-	glacier:
-		goto chroma falls
-			clip through oasis exit
-		goto oasis
-			beat persephone
-			return to CF
-			skip cutscenes, get on boat
-		goto pinewood
-			go straight then make left
-			climb step thingies then jump across 
-			pot dupe after door beyond save
-			dam skip
-			clip through arena (requires DOS now?)
-			pot dupe after save point
-			get pinewoods raggs
-			go to empty skilift, jump, DOS, TP, jump pack into loading trigger
-		goto glacier
-			pot dupe before platforming
-			do red crystal sections similar to how they used to be (*that* room is different now)
-			try clip through bridge arena
-			goto glacier nightmare entrance
-			do glacier nightmare
-			goto raggs shop
-	canyon:
-		(pretty sure it's this simple but not yet confirmed)
-		tp to raggs shop in vista
-		take dark portal
-		goto boss, beat boss
-		leave
-	forge:
-		if we don't do this before aeon:
-      tp to shop
-      go to gear door
-      take umbra portal to dark world
-      DOS clip through door
-      beat boss, go home
-	slights:
-    basically like normal for now other than boss door clip
-beat final boss
-	tp to corpotower
-	climb tower again
-	trigger cutscene
-	beat boss
-credits roll
+- start
+	- tutorial arena OOB/BIB
+	- collect cliff chest (1)
+	- goto village arena, beat frorcs
+	- jump off bridge to collect underwater chest (2)
+	- goto temple, collect chest behind mole (3)
+	- collect shotgun, pencil thrower
+	- save, roll until green potion
+	- temple OOB/BIB
+	- temple arena skip
+- goto brewery
+	- pot dupe before bridge
+	- go down to emily
+	- collect chest across from save station (4)
+	- beat emily (pot dupe if you can before defeat cutscene plays)
+	- climb back up, pot dupe before triggering explosion cutscene
+	- collect chest to right of tall ladder (5)
+- goto volcano
+	- main chamber
+	- stone village
+    - pot dupe on gatekeeper cutscene
+    - wall jump up tower of left side by barrier, jump over barrier
+    - save/reload if you need to refresh green pot
+    - go to ground level
+    - kill firefox with grenade as it spawns and pick up flamethrower
+    - climb up tower, wall jump off of support and onto slanted ramp
+    - slide up ramp (twice to get enough height before running out of stamina), or use green pot if you can afford to take longer in lava
+    - climb top of ramp, jump onto platform (stand on invisible collider for extra height)
+    - pop green pot if you haven't already, long jump to left tubing
+    - high jump then wall jump off of invisible wall, you should be able to ledge hang top of invisible wall
+    - run towards visible wall, jump down crack
+    - run along roof until you get to wall, jump into lava and run under ramp to back in bounds
+    - wall jump to door
+    - do reactor core like normal, just harder w/o double jump (use wall jumps and high jumps as needed)
+- goto rusty canyon
+	- tunnels OOB/BIB
+	- goto raggs, purchase jump pack
+	- pot dupe before daisy fight
+	- daisy OOB/BIB
+	- save at vista
+	- use speed pot then take dandelion to right, jump pack to cover the last distance
+	- activate furthest fan, and activate both if no speed pot in dispenser
+	- run to raggs vista, then save before river
+	- run to river exit, climb up and OOB
+	- BIB 
+	- go to whats-it-town, trample emily with unicorn
+- goto train
+	- do the train normally, just fast.
+	- try to trap emily on crane geometry
+- goto desert
+	- hope for good potion RNG
+	- get in car
+	- just drive straight along the right side of the map, don't get bapped
+- goto al-hibdae 
+	- after palace OOB, go down into library/school/idk and pick up DOS
+	- complete library brawl, escape the palace, defeat kraken, goto ship
+- goto marshmallot
+	- activate canon, take canon to C&P
+	- clip through invisible wall to left of door to C&P, take gondola east
+	- continue towards forge, get raggs here so we can tp after forge
+- goto celestial forge
+	- dos clip through progression check barrier, take elevator
+	- warp between distant platforms, clip through barriers
+        - optionally, enter dark world portal in upper left door, defeat forge nightmare boss, then return to light world 
+	- goto gear door, destroy all enemies, warp through gears
+	- defeat aeon
+	- goto cp2, take raggs teleport to marshmallot cloud temple
+- goto marshmallot
+	- take eastern gondola back to castle
+	- clip through southern invisible barrier, enter trigger for forest
+- goto forest
+	- clip through door after first save point to enter blueberry area
+	- clip through castle gate
+	- climb to the top of the castle, beat green candy guy
+- fishbone harbor
+	- get raggs shop in fishbone
+	- clip through doors to get to tram
+- goto the slights
+	- defeat all enemies in the casino fight, beat shark boss
+	- take raggs shop back to fishbone
+	- return to harbor to go to VoK
+- goto valley of kings
+	- enter pyramid, clip through scarab door (proximity DOS clip)
+	- pot dupe as pyramid cutscene plays (first pair of large round pillars)
+	- clip through statue door
+	- if clip takes you in bounds:
+	- if clip takes you out of bounds:
+		- walk under tut arena, cutscene plays
+		- back in bounds at the back of tut arena
+	- dos clip through tut exit
+	- safety save
+	- go through hallway, at 3 way split dos clip through chain link (minor timesave)
+	- save green pot for walkway with turrets and elite
+	- save & reload for new pot
+	- take all left turns in vents
+	- go towards shuttle, activate ladder, wait for guns to stop firing before climbing
+	- climb up, go across, press button, jump down to left walkway, 
+	- pick up laptop gun, press second button, get on elevevator
+- goto spacestation 
+	- not enough time to press fuel button, do autoscroller
+	- fly up, clip through window, press refuel button
+	- go to ship
+- goto moonbase
+	- get spaceport shop
+	- go southeast, clip through walls, go to red door, ignore red key
+	- goto save point, go into space, clip through red/blue wall, go into blue base
+	- get raggs shop
+	- push button on computer (pot dupe)
+	- return to shop
+	- tp to spaceport shop
+	- return to shuttle
+- goto corpopolis
+	- man idk how to describe landmarks in this level
+	- be careful with clips, they're likely to take you OOB
+	- arena clips should be done at a distance, but be aware the dark portal will try to loop back towards enemies
+	- entrance to splash boulevard is second floor of mall at the other end
+	- from locker rooms, stay to left, look for red door out of SB
+	- more rooftops, more fights, more doors
+	- follow sign for skate park, go over bridge?
+	- idk keep doing stuff till you get to the final fight, clip into a wall to cheese it 
+- goto corpotower
+	- do tower basically like normal
+	- beat AC, collect beam
+	- return to raggs shop
+- do all six dreamcatchers
+	- chroma falls:
+		- tp to village raggs shop
+		- leave village, stay to right, go to nightmare
+		- clip through nightmare boss door, beat nightmare
+		- return to shop the way you came
+	- treetops:
+		- goto volcano
+			- in main chamber, go upstairs and clip through charge beam door
+		- goto meadows
+			- go down hill, start cutscene, get on motorcycle ASAP
+			- goto the exit tree
+			- jump up onto the left stump, then climb onto extended tree branch
+			- jump, fire DOS towards far end of rope, jump into DOS, and use jump to enter the exit trigger
+		- goto treetops
+			- safety save
+			- cross first bridge, get behind mushroom platform after julie, jump on stem to get on top
+			- activate speed pot, grab beam, jump towards lowest platform, activate jump pack
+			- go left, then right across bridge, then up mushrooms, then across chasm with jet stream (requires speed and jump, DOS will target enemies)
+			- enter nightmare (be aware swamp objective will also be active)
+			- the route to the boss is the route you just took, but reversed and mirrored
+			- don't bother moving between platforms during the boss fight
+			- be careful when clipping back out of the arena, you're likely to get teleported over the void. 
+			- the route back to the light portal is the same as the route from the start to the dark portal, but mirrored
+			- go to the raggs shop in early treetops
+	- glacier:
+		- goto chroma falls
+			- clip through oasis exit
+		- goto oasis
+			- beat persephone
+			- return to CF
+			- skip cutscenes, get on boat
+		- goto pinewood
+			- go straight then make left
+			- climb step thingies then jump across 
+			- pot dupe after door beyond save
+			- dam skip
+			- clip through arena (requires DOS now?)
+			- pot dupe after save point
+			- go to empty skilift, jump, DOS, TP, jump pack into loading trigger
+		- goto glacier
+			- pot dupe before platforming
+			- do red crystal sections similar to how they used to be (*that* room is different now)
+			- try clip through bridge arena
+			- goto glacier nightmare entrance
+			- do glacier nightmare
+			- goto raggs shop
+	- canyon:
+		- tp to raggs shop in vista town
+		- take dark portal
+		- goto boss, beat boss
+		- go back to raggs 
+	- forge:
+		- if we don't do this before aeon:
+            - tp to shop
+            - go to gear door
+            - take umbra portal to dark world
+            - DOS clip through door
+            - beat boss, go home
+    - slights:
+        - basically like normal for now other than boss door clip
+- beat final boss
+	- tp to corpotower
+	- climb tower again
+	- trigger cutscene
+	- beat boss
+- credits roll
