@@ -46,7 +46,7 @@ Notes on Onirism speedrun route
 	- run to raggs vista, then save before river
 	- run to river exit, climb up and OOB
 	- BIB 
-	- go to whats-it-town, trample emily with unicorn
+	- go to whats-it-town, trample daisy with unicorn
 - goto train
 	- do the train normally, just fast.
 	- try to trap emily on crane geometry
