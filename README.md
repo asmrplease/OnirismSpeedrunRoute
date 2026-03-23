@@ -113,17 +113,29 @@ Notes on Onirism speedrun route
 	- tp to spaceport shop
 	- return to shuttle
 - goto corpopolis
-	- man idk how to describe landmarks in this level
-	- be careful with clips, they're likely to take you OOB
-	- arena clips should be done at a distance, but be aware the dark portal will try to loop back towards enemies
-	- entrance to splash boulevard is second floor of mall at the other end
-	- from locker rooms, stay to left, look for red door out of SB
-	- more rooftops, more fights, more doors
-	- follow sign for skate park, go over bridge?
-	- idk keep doing stuff till you get to the final fight, clip into a wall to cheese it 
+	- go south until you reach the potion dispenser
+ 	- JP up wall to reach raggs shop, buy hoverpack?
+  	- go west from shop then south, up ladders and staircase to red door with save station
+  	- julie cutscene 1
+  	- follow hallways, dos clip through arena door
+  	- at yellow hallway, equip jetpack and hoverpack
+  	- green pot at ledge, long jump, jet pack, and hoverpack to platform to the right of red girder
+  	- after hover recharges, jump & hover to yellow bridge
+  	- then jump/hover to red door, and crowd clip through door
+  	- save, then idk just fight this boss, flamethrower works well
+  	- in blue area, go left up stairs, head towards tall staircase
+  	- after save station, hover pack to get tacticooler, the go through door
+  	- take teal hallway then jump down to mall and go left for splash blvd
+  	- swap hover for dos at raggs
+  	- hug left wall but don't go into any rooms until you pass orange slide
+  	- red door in purple section can be bypassed by jumping up and to the right of the ledge
+  	- in yellow section, go straight out door, head towards garage door at top of stairs
+  	- dos clip through garage door, look for green railing up and to the right, jump & jp up
+  	- clip into back window/door and let enemies bunch up. 
 - goto corpotower
-	- do tower basically like normal
-	- beat AC, collect beam
+	- do tower basically like normal, send elevator down before you walk away for small timesave later
+	- beat AC, collect beam, collect beam, collect beam, do not forget to collect the bean, you have to collect the beam.
+ 	- collect the oniric beam
 	- return to raggs shop
 - do all six dreamcatchers
 	- chroma falls:
