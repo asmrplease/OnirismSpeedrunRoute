@@ -86,7 +86,6 @@ Notes on Onirism speedrun route
 	- enter pyramid, clip through scarab door (proximity DOS clip)
 	- pot dupe as pyramid cutscene plays (first pair of large round pillars)
 	- clip through statue door
-	- if clip takes you in bounds:
 	- if clip takes you out of bounds:
 		- walk under tut arena, cutscene plays
 		- back in bounds at the back of tut arena
@@ -107,31 +106,24 @@ Notes on Onirism speedrun route
 	- get spaceport shop
 	- go southeast, clip through walls, go to red door, ignore red key
 	- goto save point, go into space, clip through red/blue wall, go into blue base
-	- get raggs shop
+	- get raggs shop, purchase hoverpack but don't equip it yet
 	- push button on computer (pot dupe)
 	- return to shop
-	- tp to spaceport shop
+	- tp to spaceport shop, equip hoverpack
 	- return to shuttle
 - goto corpopolis
-	- go south until you reach the potion dispenser
- 	- JP up wall to reach raggs shop, buy hoverpack?
-  	- go west from shop then south, up ladders and staircase to red door with save station
-  	- julie cutscene 1
-  	- follow hallways, dos clip through arena door
-  	- at yellow hallway, equip jetpack and hoverpack
-  	- green pot at ledge, long jump, jet pack, and hoverpack to platform to the right of red girder
-  	- after hover recharges, jump & hover to yellow bridge
-  	- then jump/hover to red door, and crowd clip through door
-  	- save, then idk just fight this boss, flamethrower works well
-  	- in blue area, go left up stairs, head towards tall staircase
-  	- after save station, hover pack to get tacticooler, the go through door
-  	- take teal hallway then jump down to mall and go left for splash blvd
-  	- swap hover for dos at raggs
-  	- hug left wall but don't go into any rooms until you pass orange slide
-  	- red door in purple section can be bypassed by jumping up and to the right of the ledge
-  	- in yellow section, go straight out door, head towards garage door at top of stairs
-  	- dos clip through garage door, look for green railing up and to the right, jump & jp up
-  	- clip into back window/door and let enemies bunch up. 
+	- climb slanted glass roof and hover over western fence
+ 	- run across walkway, corner wall jump and JP up over ledge
+  	- hug right wall, then corner wall jump up to roof
+  	- follow ledge to back of billboard, then carefully walljump to top of billboard
+  	- walk out to end of lamp post, then JP & hover to building directly across
+  	- run to right until you reach corner/billboard, if you're on a 'floor' that is blocked, slide through gap
+  	- hover to higher rooftop to right, then just keep going in that direction till you fall to the ground plane
+  	- keep running in that direction. arena will pop in, continue forward until you see the outside of the sewers (green smoke)
+  	- go to far corner of wall with green lights, wall jump corner and JP/hover to reachable ledge, then go all the way to top
+  	- look for underside of skate park, corpo specialist will trigger, run to the furthest end of skate dip and BIB
+  	- run up stairs to red door, prep for the game's longest arena
+  	- do the arena, don't die
 - goto corpotower
 	- do tower basically like normal, send elevator down before you walk away for small timesave later
 	- beat AC, collect beam, collect beam, collect beam, do not forget to collect the bean, you have to collect the beam.
