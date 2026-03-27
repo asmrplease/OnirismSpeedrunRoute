@@ -66,7 +66,7 @@ Notes on Onirism speedrun route
 	- warp between distant platforms, clip through barriers
         - optionally, enter dark world portal in upper left door, defeat forge nightmare boss, then return to light world 
 	- goto gear door, destroy all enemies, warp through gears
-	- defeat aeon
+	- defeat aeon during the three seconds the speedup effect is active, this keeps the effect active after she dies
 	- goto cp2, take raggs teleport to marshmallot cloud temple
 - goto marshmallot
 	- take eastern gondola back to castle
@@ -125,69 +125,69 @@ Notes on Onirism speedrun route
   	- run up stairs to red door, prep for the game's longest arena
   	- do the arena, don't die
 - goto corpotower
-	- do tower basically like normal, send elevator down before you walk away for small timesave later
+  	- beating corpocarol will reset the timescale, so we're not gonna do that yet.
+  	- replenish ammo then take raggs shop to chroma falls village
+- goto chroma falls
+  	- run straight to volcano entrance
+- goto volcano
+  	- in main chamber, go up rocks and dos clip through charge shot door
+  	- enter trigger for meadows
+- goto meadows
+	- go down hill, start cutscene, get on motorcycle ASAP
+	- goto the exit tree
+	- jump up onto the left stump, then climb onto extended tree branch
+	- jump, fire DOS towards far end of rope, jump into DOS, and use jump to enter the exit trigger
+- goto treetops
+	- safety save
+	- cross first bridge, get behind mushroom platform after julie, jump on stem to get on top
+	- activate speed pot, grab beam, jump towards lowest platform, activate jump pack
+ 	- exit via raggs shop
+- goto chroma falls
+	- clip through oasis exit
+- goto oasis
+	- beat persephone DO NOT COLLECT UPGRADE
+	- return to CF
+	- skip cutscenes, get on boat
+- goto pinewood
+	- go straight then make left
+	- climb step thingies then jump across 
+	- pot dupe after door beyond save
+	- dam skip
+	- clip through arena (requires DOS now?)
+	- pot dupe after save point
+	- go to empty skilift, jump, DOS, TP, jump pack into loading trigger
+- goto glacier
+	- pot dupe before platforming
+ 	- idk if we can collect the crystals without losing timescale, for now lets just leave
+    - take raggs shop 
+- goto corpotower
+	- do tower basically like normal, send elevator down or reload scene before you walk away for small timesave later
 	- beat AC, collect beam, collect beam, collect beam, do not forget to collect the bean, you have to collect the beam.
  	- collect the oniric beam
 	- return to raggs shop
-- do all six dreamcatchers
+- do all remaining dreamcatchers
 	- chroma falls:
 		- tp to village raggs shop
 		- leave village, stay to right, go to nightmare
 		- clip through nightmare boss door, beat nightmare
 		- return to shop the way you came
 	- treetops:
-		- goto volcano
-			- in main chamber, go upstairs and clip through charge beam door
-		- goto meadows
-			- go down hill, start cutscene, get on motorcycle ASAP
-			- goto the exit tree
-			- jump up onto the left stump, then climb onto extended tree branch
-			- jump, fire DOS towards far end of rope, jump into DOS, and use jump to enter the exit trigger
-		- goto treetops
-			- safety save
-			- cross first bridge, get behind mushroom platform after julie, jump on stem to get on top
-			- activate speed pot, grab beam, jump towards lowest platform, activate jump pack
-			- go left, then right across bridge, then up mushrooms, then across chasm with jet stream (requires speed and jump, DOS will target enemies)
-			- enter nightmare (be aware swamp objective will also be active)
-			- the route to the boss is the route you just took, but reversed and mirrored
-			- don't bother moving between platforms during the boss fight
-			- be careful when clipping back out of the arena, you're likely to get teleported over the void. 
-			- the route back to the light portal is the same as the route from the start to the dark portal, but mirrored
-			- go to the raggs shop in early treetops
+        - tp to raggs and jump to nightmare portal
+		- don't bother moving between platforms during the boss fight
+		- be careful when clipping back out of the arena, you're likely to get teleported over the void. 
+		- the route back to the light portal is the same as the route from the start to the dark portal, but mirrored
+		- go to the raggs shop in early treetops
 	- glacier:
-		- goto chroma falls
-			- clip through oasis exit
-		- goto oasis
-			- beat persephone
-			- return to CF
-			- skip cutscenes, get on boat
-		- goto pinewood
-			- go straight then make left
-			- climb step thingies then jump across 
-			- pot dupe after door beyond save
-			- dam skip
-			- clip through arena (requires DOS now?)
-			- pot dupe after save point
-			- go to empty skilift, jump, DOS, TP, jump pack into loading trigger
-		- goto glacier
-			- pot dupe before platforming
-			- do red crystal sections similar to how they used to be (*that* room is different now)
-			- try clip through bridge arena
-			- goto glacier nightmare entrance
-			- do glacier nightmare
-			- goto raggs shop
+		- do red crystal sections similar to how they used to be (*that* room is different now)
+		- try clip through bridge arena
+		- goto glacier nightmare entrance
+		- do glacier nightmare
+		- goto raggs shop
 	- canyon:
 		- tp to raggs shop in vista town
 		- take dark portal
 		- goto boss, beat boss
 		- go back to raggs 
-	- forge:
-		- if we don't do this before aeon:
-            - tp to shop
-            - go to gear door
-            - take umbra portal to dark world
-            - DOS clip through door
-            - beat boss, go home
     - slights:
         - basically like normal for now other than boss door clip
 - beat final boss
