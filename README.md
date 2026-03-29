@@ -77,7 +77,10 @@ Notes on Onirism speedrun route
 	- climb to the top of the castle, beat green candy guy
 - fishbone harbor
 	- get raggs shop in fishbone
-	- clip through doors to get to tram
+	- clip through red door
+ 	- go up staircase, clip through garage door on right
+    - run down street, trigger diner cutscene
+    - go to tram, take tram to slights
 - goto the slights
 	- defeat all enemies in the casino fight, beat shark boss
 	- take raggs shop back to fishbone
